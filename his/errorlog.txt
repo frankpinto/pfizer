@@ -1,0 +1,225 @@
+2010-12-29 16:40:09 -0500: Should've been a last name at ACEVEDO+MARTY,+IRIS+ARLENE
+2010-12-29 16:40:50 -0500: Should've been a last name at ARCINIEGAS+MEDINA,+NORMA+J
+2010-12-29 16:41:13 -0500: Should've been a last name at BALLESTE+FRANK,+CARMEN+RITA
+2010-12-29 16:41:46 -0500: Should've been a last name at BERTRAN+PASARELL,+JORGE
+2010-12-29 16:42:15 -0500: Should've been a last name at BRAGIN+SANCHEZ,+DAVID+ERNESTO
+2010-12-29 16:42:17 -0500: Should've been a last name at BRAUN+HASHEMI,+CLARE+ANTOINETT
+2010-12-29 16:42:17 -0500: Should've been a last name at BRAVO+VALVERDE,+RUBEN+L
+2010-12-29 16:42:41 -0500: Should've been a last name at BURT+SOLORZANO,+CHRISTINE+MICHELE
+2010-12-29 16:42:57 -0500: Should've been a last name at CARDONA+DOBLE,+HECTOR+A
+2010-12-29 16:43:01 -0500: Should've been a last name at CARLO+TORRES,+SIMON+ENRIQUE
+2010-12-29 16:43:30 -0500: Should've been a last name at CHIONG++WONG,+RAFAEL
+2010-12-29 16:43:33 -0500: Should've been a last name at CHRISTENSON+BRAVO,+BERNARD
+2010-12-29 16:44:04 -0500: Should've been a last name at CRUZ+CESTERO,+JOSE+RAFAEL
+2010-12-29 16:44:24 -0500: Should've been a last name at DE+FRANCO,+ANTHONY+CARL
+2010-12-29 16:44:24 -0500: Should've been a last name at DE+LA+GARZA,+MIGUEL+ADAN
+2010-12-29 16:44:30 -0500: Should've been a last name at DELEON+CASASOLA,+OSCAR+ARNOLDO
+2010-12-29 16:44:31 -0500: Should've been a last name at DELLA+BADIA,+CARL+R
+2010-12-29 16:44:39 -0500: Should've been a last name at DIAZ+ROMERO,+PORFIRIO+E
+2010-12-29 16:44:51 -0500: Should've been a last name at GUIOT+MARTINEZ,+HUMBERTO+M
+2010-12-29 16:45:47 -0500: Should've been a last name at FELICIANO+ASTACIO,+BRISEIDA+E
+2010-12-29 16:46:25 -0500: Should've been a last name at GARCIA+MATEO,+JOSE+MILTON
+2010-12-29 16:46:27 -0500: Should've been a last name at GARRETT+LPN,+SHARON
+2010-12-29 16:46:58 -0500: Should've been a last name at GONZALEZ+BARRETO,+JORGE
+2010-12-29 16:46:58 -0500: Should've been a last name at GONZALEZ+ESCO,+GILBERTO
+2010-12-29 16:46:58 -0500: Should've been a last name at GONZALEZ+PIJEM,+LILLIAN+L
+2010-12-29 16:48:00 -0500: Should've been a last name at HERNANDEZ+MALDONADO,+GUSTAVO+A
+2010-12-29 16:48:09 -0500: Should've been a last name at HOFFMAN+TERRY,+MARGARET+L
+2010-12-29 16:48:47 -0500: Should've been a last name at IRIZARRY+GONZALEZ,+LYDIA
+2010-12-29 16:49:07 -0500: Should've been a last name at JIMENEZ+RODRIGUEZ,+HARRY+OSCAR
+2010-12-29 16:49:07 -0500: Should've been a last name at JIMENEZ+SOTO,+JULIO+ENRIQUE
+2010-12-29 16:49:22 -0500: Should've been a last name at JOVE+GOTAY,+GLORIA+REBECCA
+2010-12-29 16:50:45 -0500: Should've been a last name at LEMAGIE+DRAKE,+COLLEEN+ALISE
+2010-12-29 16:50:49 -0500: Should've been a last name at LENNOX+THOMAS,+TRICIA+LYNN
+2010-12-29 16:50:51 -0500: Should've been a last name at PEDERSEN+LUNDT,+LESLIE+RENEE
+2010-12-29 16:51:15 -0500: Should've been a last name at LUGO+VELAZQUEZ,+AGRIPINO+ORLANDO
+2010-12-29 16:51:48 -0500: Should've been a last name at MAYMI+MORALES,+JOSE+LUIS
+2010-12-29 16:51:49 -0500: Should've been a last name at MAYMI+RIVERA,+JOSE+AMADO
+2010-12-29 16:51:50 -0500: Should've been a last name at MC+KELVY,+BRANDY+JO
+2010-12-29 16:52:07 -0500: Should've been a last name at MEJIA+RIVERA,+LUIS+CARLOS
+2010-12-29 16:52:07 -0500: Should've been a last name at MELENDEZ+RIVERA,+IVAN
+2010-12-29 16:52:10 -0500: Should've been a last name at MENDEZ+MENDEZ,+RAMON+EDUARDO
+2010-12-29 16:52:10 -0500: Should've been a last name at MENDEZ+TORRES,+FREDDY+RAFAEL
+2010-12-29 16:53:05 -0500: Should've been a last name at NEGRON+LUCIANO,+DENNIS+E+L
+2010-12-29 16:53:29 -0500: Should've been a last name at OLIVO+ECHAVARRY,+VANESSA
+2010-12-29 16:53:44 -0500: Should've been a last name at PARDO+REOYO,+CECILIO+FRANCISCO
+2010-12-29 16:54:07 -0500: Should've been a last name at PENA+GONZALEZ,+ARLENE+LYDIA
+2010-12-29 16:54:10 -0500: Should've been a last name at PEREZ+FERNANDEZ,+JAVIER
+2010-12-29 16:54:36 -0500: Should've been a last name at PRIETO+AGOSTINI,+EDGARDO+JOSE
+2010-12-29 16:54:38 -0500: Should've been a last name at PUJOLS+GONZALEZ,+MARIA+DE+LOS+A
+2010-12-29 16:54:50 -0500: Should've been a last name at RAMIREZ+LOPEZ,+ALBERTO+JAVIER
+2010-12-29 16:54:51 -0500: Should've been a last name at RAMIREZ+VAZQUEZ,+JOSE+RAFAEL
+2010-12-29 16:55:03 -0500: Should've been a last name at REGO-PASSOS+FILHO,+JAIME
+2010-12-29 16:56:49 -0500: Should've been a last name at RIOS+DE+ALONSO,+MARIA+LUISA
+2010-12-29 16:57:12 -0500: Should've been a last name at RIVERA+HERRERA,+JORGE+LUIS
+2010-12-29 23:25:34 -0500: Should've been a last name at ACEVEDO+MARTY,+IRIS+ARLENE
+2010-12-29 23:26:11 -0500: Should've been a last name at ARCINIEGAS+MEDINA,+NORMA+J
+2010-12-29 23:26:32 -0500: Should've been a last name at BALLESTE+FRANK,+CARMEN+RITA
+2010-12-29 23:27:01 -0500: Should've been a last name at BERTRAN+PASARELL,+JORGE
+2010-12-29 23:27:29 -0500: Should've been a last name at BRAGIN+SANCHEZ,+DAVID+ERNESTO
+2010-12-29 23:27:31 -0500: Should've been a last name at BRAUN+HASHEMI,+CLARE+ANTOINETT
+2010-12-29 23:27:31 -0500: Should've been a last name at BRAVO+VALVERDE,+RUBEN+L
+2010-12-29 23:27:53 -0500: Should've been a last name at BURT+SOLORZANO,+CHRISTINE+MICHELE
+2010-12-29 23:28:09 -0500: Should've been a last name at CARDONA+DOBLE,+HECTOR+A
+2010-12-29 23:28:10 -0500: Should've been a last name at CARLO+TORRES,+SIMON+ENRIQUE
+2010-12-29 23:28:39 -0500: Should've been a last name at CHIONG++WONG,+RAFAEL
+2010-12-29 23:28:42 -0500: Should've been a last name at CHRISTENSON+BRAVO,+BERNARD
+2010-12-29 23:29:17 -0500: Should've been a last name at CRUZ+CESTERO,+JOSE+RAFAEL
+2010-12-29 23:29:35 -0500: Should've been a last name at DE+FRANCO,+ANTHONY+CARL
+2010-12-29 23:29:36 -0500: Should've been a last name at DE+LA+GARZA,+MIGUEL+ADAN
+2010-12-29 23:29:41 -0500: Should've been a last name at DELEON+CASASOLA,+OSCAR+ARNOLDO
+2010-12-29 23:29:42 -0500: Should've been a last name at DELLA+BADIA,+CARL+R
+2010-12-29 23:29:51 -0500: Should've been a last name at DIAZ+ROMERO,+PORFIRIO+E
+2010-12-29 23:30:04 -0500: Should've been a last name at GUIOT+MARTINEZ,+HUMBERTO+M
+2010-12-29 23:30:42 -0500: Should've been a last name at FELICIANO+ASTACIO,+BRISEIDA+E
+2010-12-29 23:31:20 -0500: Should've been a last name at GARCIA+MATEO,+JOSE+MILTON
+2010-12-29 23:31:22 -0500: Should've been a last name at GARRETT+LPN,+SHARON
+2010-12-29 23:31:55 -0500: Should've been a last name at GONZALEZ+BARRETO,+JORGE
+2010-12-29 23:31:55 -0500: Should've been a last name at GONZALEZ+ESCO,+GILBERTO
+2010-12-29 23:31:55 -0500: Should've been a last name at GONZALEZ+PIJEM,+LILLIAN+L
+2010-12-29 23:32:58 -0500: Should've been a last name at HERNANDEZ+MALDONADO,+GUSTAVO+A
+2010-12-29 23:33:07 -0500: Should've been a last name at HOFFMAN+TERRY,+MARGARET+L
+2010-12-29 23:33:35 -0500: Should've been a last name at IRIZARRY+GONZALEZ,+LYDIA
+2010-12-29 23:33:57 -0500: Should've been a last name at JIMENEZ+RODRIGUEZ,+HARRY+OSCAR
+2010-12-29 23:33:58 -0500: Should've been a last name at JIMENEZ+SOTO,+JULIO+ENRIQUE
+2010-12-29 23:34:12 -0500: Should've been a last name at JOVE+GOTAY,+GLORIA+REBECCA
+2010-12-29 23:35:33 -0500: Should've been a last name at LEMAGIE+DRAKE,+COLLEEN+ALISE
+2010-12-29 23:35:35 -0500: Should've been a last name at LENNOX+THOMAS,+TRICIA+LYNN
+2010-12-29 23:35:37 -0500: Should've been a last name at PEDERSEN+LUNDT,+LESLIE+RENEE
+2010-12-29 23:36:11 -0500: Should've been a last name at LUGO+VELAZQUEZ,+AGRIPINO+ORLANDO
+2010-12-29 23:36:43 -0500: Should've been a last name at MAYMI+MORALES,+JOSE+LUIS
+2010-12-29 23:36:43 -0500: Should've been a last name at MAYMI+RIVERA,+JOSE+AMADO
+2010-12-29 23:36:45 -0500: Should've been a last name at MC+KELVY,+BRANDY+JO
+2010-12-29 23:37:01 -0500: Should've been a last name at MEJIA+RIVERA,+LUIS+CARLOS
+2010-12-29 23:37:01 -0500: Should've been a last name at MELENDEZ+RIVERA,+IVAN
+2010-12-29 23:37:04 -0500: Should've been a last name at MENDEZ+MENDEZ,+RAMON+EDUARDO
+2010-12-29 23:37:04 -0500: Should've been a last name at MENDEZ+TORRES,+FREDDY+RAFAEL
+2010-12-29 23:37:58 -0500: Should've been a last name at NEGRON+LUCIANO,+DENNIS+E+L
+2010-12-29 23:38:21 -0500: Should've been a last name at OLIVO+ECHAVARRY,+VANESSA
+2010-12-29 23:38:35 -0500: Should've been a last name at PARDO+REOYO,+CECILIO+FRANCISCO
+2010-12-29 23:38:54 -0500: Should've been a last name at PENA+GONZALEZ,+ARLENE+LYDIA
+2010-12-29 23:38:57 -0500: Should've been a last name at PEREZ+FERNANDEZ,+JAVIER
+2010-12-29 23:39:25 -0500: Should've been a last name at PRIETO+AGOSTINI,+EDGARDO+JOSE
+2010-12-29 23:39:27 -0500: Should've been a last name at PUJOLS+GONZALEZ,+MARIA+DE+LOS+A
+2010-12-29 23:39:31 -0500: Error getting the RABESS,+CECILIA+E
+-entry: 
+
+	C:/Ruby192/lib/ruby/1.9.1/net/protocol.rb:137:in `select'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/protocol.rb:137:in `rescue in rbuf_fill'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/protocol.rb:134:in `rbuf_fill'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/protocol.rb:116:in `readuntil'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/protocol.rb:126:in `readline'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/http.rb:2211:in `read_status_line'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/http.rb:2200:in `read_new'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/http.rb:1183:in `transport_request'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/http.rb:1169:in `request'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:312:in `block in open_http'
+
+	C:/Ruby192/lib/ruby/1.9.1/net/http.rb:627:in `start'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:306:in `open_http'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:769:in `buffer_open'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:203:in `block in open_loop'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:201:in `catch'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:201:in `open_loop'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:146:in `open_uri'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:671:in `open'
+
+	C:/Ruby192/lib/ruby/1.9.1/open-uri.rb:33:in `open'
+
+	pfizer2.rb:199:in `process_doctor'
+
+	pfizer2.rb:251:in `block (2 levels) in process_doctor_pages'
+
+	pfizer2.rb:250:in `each'
+
+	pfizer2.rb:250:in `block in process_doctor_pages'
+
+	pfizer2.rb:249:in `open'
+
+	pfizer2.rb:249:in `process_doctor_pages'
+
+	pfizer2.rb:267:in `<main>'
+2010-12-29 23:39:41 -0500: Should've been a last name at ACEVEDO+MARTY,+IRIS+ARLENE
+2010-12-29 23:40:19 -0500: Should've been a last name at ARCINIEGAS+MEDINA,+NORMA+J
+2010-12-29 23:40:40 -0500: Should've been a last name at BALLESTE+FRANK,+CARMEN+RITA
+2010-12-29 23:41:11 -0500: Should've been a last name at BERTRAN+PASARELL,+JORGE
+2010-12-29 23:41:37 -0500: Should've been a last name at BRAGIN+SANCHEZ,+DAVID+ERNESTO
+2010-12-29 23:41:39 -0500: Should've been a last name at BRAUN+HASHEMI,+CLARE+ANTOINETT
+2010-12-29 23:41:39 -0500: Should've been a last name at BRAVO+VALVERDE,+RUBEN+L
+2010-12-29 23:42:02 -0500: Should've been a last name at BURT+SOLORZANO,+CHRISTINE+MICHELE
+2010-12-29 23:42:15 -0500: Should've been a last name at CARDONA+DOBLE,+HECTOR+A
+2010-12-29 23:42:17 -0500: Should've been a last name at CARLO+TORRES,+SIMON+ENRIQUE
+2010-12-29 23:42:44 -0500: Should've been a last name at CHIONG++WONG,+RAFAEL
+2010-12-29 23:42:49 -0500: Should've been a last name at CHRISTENSON+BRAVO,+BERNARD
+2010-12-29 23:43:21 -0500: Should've been a last name at CRUZ+CESTERO,+JOSE+RAFAEL
+2010-12-29 23:43:38 -0500: Should've been a last name at DE+FRANCO,+ANTHONY+CARL
+2010-12-29 23:43:38 -0500: Should've been a last name at DE+LA+GARZA,+MIGUEL+ADAN
+2010-12-29 23:43:43 -0500: Should've been a last name at DELEON+CASASOLA,+OSCAR+ARNOLDO
+2010-12-29 23:43:45 -0500: Should've been a last name at DELLA+BADIA,+CARL+R
+2010-12-29 23:43:53 -0500: Should've been a last name at DIAZ+ROMERO,+PORFIRIO+E
+2010-12-29 23:44:04 -0500: Should've been a last name at GUIOT+MARTINEZ,+HUMBERTO+M
+2010-12-29 23:44:45 -0500: Should've been a last name at FELICIANO+ASTACIO,+BRISEIDA+E
+2010-12-29 23:45:21 -0500: Should've been a last name at GARCIA+MATEO,+JOSE+MILTON
+2010-12-29 23:45:23 -0500: Should've been a last name at GARRETT+LPN,+SHARON
+2010-12-29 23:45:57 -0500: Should've been a last name at GONZALEZ+BARRETO,+JORGE
+2010-12-29 23:45:57 -0500: Should've been a last name at GONZALEZ+ESCO,+GILBERTO
+2010-12-29 23:45:57 -0500: Should've been a last name at GONZALEZ+PIJEM,+LILLIAN+L
+2010-12-29 23:47:01 -0500: Should've been a last name at HERNANDEZ+MALDONADO,+GUSTAVO+A
+2010-12-29 23:47:09 -0500: Should've been a last name at HOFFMAN+TERRY,+MARGARET+L
+2010-12-29 23:47:39 -0500: Should've been a last name at IRIZARRY+GONZALEZ,+LYDIA
+2010-12-29 23:47:59 -0500: Should've been a last name at JIMENEZ+RODRIGUEZ,+HARRY+OSCAR
+2010-12-29 23:47:59 -0500: Should've been a last name at JIMENEZ+SOTO,+JULIO+ENRIQUE
+2010-12-29 23:48:15 -0500: Should've been a last name at JOVE+GOTAY,+GLORIA+REBECCA
+2010-12-29 23:49:38 -0500: Should've been a last name at LEMAGIE+DRAKE,+COLLEEN+ALISE
+2010-12-29 23:49:40 -0500: Should've been a last name at LENNOX+THOMAS,+TRICIA+LYNN
+2010-12-29 23:49:41 -0500: Should've been a last name at PEDERSEN+LUNDT,+LESLIE+RENEE
+2010-12-29 23:50:07 -0500: Should've been a last name at LUGO+VELAZQUEZ,+AGRIPINO+ORLANDO
+2010-12-29 23:50:38 -0500: Should've been a last name at MAYMI+MORALES,+JOSE+LUIS
+2010-12-29 23:50:38 -0500: Should've been a last name at MAYMI+RIVERA,+JOSE+AMADO
+2010-12-29 23:50:39 -0500: Should've been a last name at MC+KELVY,+BRANDY+JO
+2010-12-29 23:50:57 -0500: Should've been a last name at MEJIA+RIVERA,+LUIS+CARLOS
+2010-12-29 23:50:58 -0500: Should've been a last name at MELENDEZ+RIVERA,+IVAN
+2010-12-29 23:51:00 -0500: Should've been a last name at MENDEZ+MENDEZ,+RAMON+EDUARDO
+2010-12-29 23:51:00 -0500: Should've been a last name at MENDEZ+TORRES,+FREDDY+RAFAEL
+2010-12-29 23:51:52 -0500: Should've been a last name at NEGRON+LUCIANO,+DENNIS+E+L
+2010-12-29 23:52:15 -0500: Should've been a last name at OLIVO+ECHAVARRY,+VANESSA
+2010-12-29 23:52:29 -0500: Should've been a last name at PARDO+REOYO,+CECILIO+FRANCISCO
+2010-12-29 23:52:49 -0500: Should've been a last name at PENA+GONZALEZ,+ARLENE+LYDIA
+2010-12-29 23:52:52 -0500: Should've been a last name at PEREZ+FERNANDEZ,+JAVIER
+2010-12-29 23:53:17 -0500: Should've been a last name at PRIETO+AGOSTINI,+EDGARDO+JOSE
+2010-12-29 23:53:19 -0500: Should've been a last name at PUJOLS+GONZALEZ,+MARIA+DE+LOS+A
+2010-12-29 23:53:31 -0500: Should've been a last name at RAMIREZ+LOPEZ,+ALBERTO+JAVIER
+2010-12-29 23:53:31 -0500: Should've been a last name at RAMIREZ+VAZQUEZ,+JOSE+RAFAEL
+2010-12-29 23:53:42 -0500: Should've been a last name at REGO-PASSOS+FILHO,+JAIME
+2010-12-29 23:53:55 -0500: Should've been a last name at RIOS+DE+ALONSO,+MARIA+LUISA
+2010-12-29 23:53:57 -0500: Should've been a last name at RIVERA+HERRERA,+JORGE+LUIS
+2010-12-29 23:54:04 -0500: Should've been a last name at RODRIGUEZ+OLAVERRI,+ENRIQUE+JUAN
+2010-12-29 23:54:04 -0500: Should've been a last name at RODRIGUEZ+RIVERA,+JUAN+M
+2010-12-29 23:54:31 -0500: Should've been a last name at SAINZ+DE+LA+PENA,+MANUEL+C
+2010-12-29 23:54:40 -0500: Should've been a last name at SANTIAGO+PEREZ,+DWIGHT+MANUEL
+2010-12-29 23:55:47 -0500: Should've been a last name at SMITH+RN,+COLLEEN+F.
+2010-12-29 23:55:55 -0500: Should've been a last name at SOLER+RAMIREZ,+RICARDO+JAVIER
+2010-12-29 23:55:59 -0500: Should've been a last name at SOTO+RAICES,+OSCAR
+2010-12-29 23:56:03 -0500: Should've been a last name at SPENCER+LUKACZ,+EMILY+S
+2010-12-29 23:56:55 -0500: Should've been a last name at TOTH+RUSSELL,+PAULA+MARIE
+2010-12-29 23:57:18 -0500: Should've been a last name at VAN+DUIN,+DAVID
+2010-12-29 23:57:23 -0500: Should've been a last name at VELAZQUEZ+GONZALEZ,+MARCOS+ARN
+2010-12-29 23:57:26 -0500: Should've been a last name at VILLANUEVA+BOSQUE,+WILLIAM
+2010-12-29 23:57:26 -0500: Should've been a last name at VILLEGAS+SOLIVAN,+AUGUSTO+ENRIQUE
+2010-12-29 23:58:21 -0500: Should've been a last name at YASSIN+KASSAB,+MOUNZER

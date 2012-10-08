@@ -1,0 +1,172 @@
+ALBANY MEDICAL COLLEGE	7	ALBANY	NY	Pfizer Sponsored Research initiated before July 1, 2009	6702	
+BARBARA ANN KARMANOS CANCER CENTER	26	DETROIT	MI	Pfizer Sponsored Research initiated before July 1, 2009	76710	
+BARBARA ANN KARMANOS CANCER INSTITUTE	26	DETRIOT	MI	Pfizer Sponsored Research initiated before July 1, 2009	80621	
+BAYLOR COLLEGE OF MEDICINE	30	HOUSTON	TX	Pfizer Sponsored Research initiated before July 1, 2009	116693	
+BAYLOR RESEARCH INSTITUTE	30	DALLAS	TX	Pfizer Sponsored Research initiated before July 1, 2009	105811	
+BAYSTATE MEDICAL CENTER	30	SPRINGFIELD	MA	Pfizer Sponsored Research initiated before July 1, 2009	19093	
+BETH ISRAEL DEACONESS MEDICAL CENTER	37	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	7543	
+BETH ISRAEL MEDICAL CENTER	37	NEW YORK	NY	Pfizer Sponsored Research initiated before July 1, 2009	29725	
+BOARD OF REGENTS OF THE UNIV OF WISCONSIN SYSTEM	42	MILWAUKEE	WI	Pfizer Sponsored Research initiated before July 1, 2009	15682	
+BOARD OF REGENTS OF THE UNIVERSITY	42	MADISON	WI	Pfizer Sponsored Research initiated before July 1, 2009	2464	
+BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS	42	CHICAGO	IL	Pfizer Sponsored Research initiated before July 1, 2009	4291	
+BRIDGEPORT HOSPITAL FOUNDATION INC	50	BRIDGEPORT	CT	Pfizer Sponsored Research initiated before July 1, 2009	8575	
+BUTLER HOSPITAL	58	PROVIDENCE	RI	Pfizer Sponsored Research initiated before July 1, 2009	65278	
+CARITAS ST. ELIZABETH'S MEDICAL CENTER	64	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	2500	
+CERNER CORPORATION	69	KANSAS CITY	MO	Pfizer Sponsored Research initiated on or after July 1, 2009		
+CHEUNG K (TOM) LEUNG MD	74	GILROY	CA	Expert-Led  Forums	1750	
+CHEUNG K (TOM) LEUNG MD	74	GILROY	CA	Business Related Travel		42
+CHILDREN'S HOSPITAL & REGIONAL MEDICAL CENTER	75	SEATTLE	WA	Pfizer Sponsored Research initiated before July 1, 2009	31977	
+CHILDREN'S HOSPITAL & REGIONAL MEDICAL CENTER	75	SEATTLE	WA	WALLACE, CAROL ANN		
+CHILDREN'S HOSPITAL BOSTON	75	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	21294	
+CHILDREN'S HOSPITAL MEDICAL CENTER OF AKRON	75	AKRON	OH	Pfizer Sponsored Research initiated before July 1, 2009	12400	
+CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC	75	PITTSBURGH	PA	Pfizer Sponsored Research initiated before July 1, 2009	8600	
+CHILDREN'S HOSPITALS & CLINICS OF MINNESOTA	75	MINNEAPOLIS	MN	Pfizer Sponsored Research initiated before July 1, 2009	3800	
+CHILDRENS HOSPITAL OF LOS ANGELES	75	LOS ANGELES	CA	Pfizer Sponsored Research initiated before July 1, 2009	10123	
+CHILDRENS MEDICAL CENTER OF AKRON	75	AKRON	OH	Pfizer Sponsored Research initiated before July 1, 2009	5500	
+CHRISTIANA CARE HEALTH SERVICES INC	77	WILMINGTON	DE	Pfizer Sponsored Research initiated before July 1, 2009	622	
+CINCINNATI CHILDREN'S HOSPITAL MEDICAL CENTER	79	CINCINNATI	OH	Pfizer Sponsored Research initiated before July 1, 2009	37190	
+COLUMBIA UNIVERSITY	85	FORT LEE	NJ	Pfizer Sponsored Research initiated before July 1, 2009	700	
+CONNECTICUT CHILDREN'S MEDICAL CENTER	86	HARTFORD	CT	Pfizer Sponsored Research initiated before July 1, 2009	11000	
+CREIGHTON UNIVERSITY	90	OMAHA	NE	Pfizer Sponsored Research initiated before July 1, 2009	25278	
+CREIGHTON UNIVERSITY MEDICAL CENTER	90	OMAHA	NE	Pfizer Sponsored Research initiated before July 1, 2009	50449	
+CURATORS OF THE UNIVERSITY OF MISSOURI	91	COLUMBIA	MO	Pfizer Sponsored Research initiated before July 1, 2009	60480	
+DREXEL UNIVERSITY COLLEGE OF MEDICINE	110	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	9772	
+EAST CAROLINA UNIVERSITY	113	CHARLOTTE	NC	Pfizer Sponsored Research initiated before July 1, 2009	35529	
+EMORY UNIVERSITY	118	ATLANTA	GA	Pfizer Sponsored Research initiated before July 1, 2009	101734	
+ENH RESEARCH INSTITUTE	118	EVANSTON	IL	Pfizer Sponsored Research initiated before July 1, 2009	4000	
+FACULTY, PHYSICIANS & SURGEONS OF LOMA LINDA UNIVERSITY MEDICAL CENTER	121	LOMA LINDA	CA	Pfizer Sponsored Research initiated before July 1, 2009	600	
+GENERAL HOSPITAL CORPORATION	144	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	1687	
+GEORGE WASHINGTON UNIVERSITY	145	ASHBURN	VA	Pfizer Sponsored Research initiated before July 1, 2009	21534	
+GEORGETOWN UNIVERSITY	146	WASHINGTON	DC	Pfizer Sponsored Research initiated before July 1, 2009	13071	
+GEORGETOWN UNIVERSITY CLINICAL TRIALS OFFICE	146	WASHINGTON	DC	Pfizer Sponsored Research initiated before July 1, 2009	9300	
+GREENVILLE HOSPITAL SYSTEM - CENTER FOR WOMEN'S HEALTH	160	GREENVILLE	SC	Pfizer Sponsored Research initiated before July 1, 2009	40952	
+GREENVILLE HOSPITAL SYSTEM, SANDRA L. WEBER, MD	160	GREENVILLE	SC	Pfizer Sponsored Research initiated before July 1, 2009	1000	
+HACKENSACK UNIVERSITY MEDICAL CENTER	167	HACKENSACK	NJ	Pfizer Sponsored Research initiated before July 1, 2009	47067	
+HARTFORD HOSPITAL	173	HARTFORD	CT	Pfizer Sponsored Research initiated on or after July 1, 2009		
+INDIANA UNIVERSITY	194	INDIANAPOLIS	IN	Pfizer Sponsored Research initiated before July 1, 2009	4440	
+INDIANA UNIVERSITY	194	BLOOMINGTON	IN	Pfizer Sponsored Research initiated before July 1, 2009	3885	
+JOHNS HOPKINS UNIVERSITY	205	BALTIMORE	MD	Pfizer Sponsored Research initiated before July 1, 2009	106622	
+JOSEPH STOKES JR. RESEARCH INSTITUTE OF CHILDREN'S HOSPITAL OF PHILADELPHIA	209	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	8000	
+KUMC RESEARCH INSTITUTE, INC.	233	KANSAS CITY	KS	Pfizer Sponsored Research initiated before July 1, 2009	4732	
+LEHIGH VALLEY HOSPITAL	242	ALLENTOWN	PA	Pfizer Sponsored Research initiated before July 1, 2009	1416	
+LOMA LINDA UNIVERSITY	251	LOMA LINDA	CA	Pfizer Sponsored Research initiated before July 1, 2009	4460	
+LOUISIANA STATE UNIV HEALTH SCIENCE CENTER	253	NEW ORLEANS	LA	Pfizer Sponsored Research initiated before July 1, 2009	13411	
+LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER - NEW ORLEANS	253	NEW ORLEANS	LA	Pfizer Sponsored Research initiated before July 1, 2009	4000	
+LOYOLA UNIVERSITY OF CHICAGO	254	MAYWOOD	IL	Pfizer Sponsored Research initiated before July 1, 2009	73288	
+LSU HEALTH SCIENCES CENTER	254	SHREVEPORT	LA	Pfizer Sponsored Research initiated before July 1, 2009	3760	
+MASSACHUSETTS EYE AND EAR INFIRMARY	266	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	7330	
+MCLEAN HOSPITAL	273	BELMONT	MA	Pfizer Sponsored Research initiated before July 1, 2009	4531	
+MDACCO - MD ANDERSON CANCER CENTER ORLANDO	274	ORLANDO	FL	Pfizer Sponsored Research initiated before July 1, 2009	22556	
+MEMORIAL HOSPITAL OF RHODE ISLAND	278	PAWTUCKET	RI	Pfizer Sponsored Research initiated before July 1, 2009	20913	
+MERCER UNIVERSITY	279	MACON	GA	Pfizer Sponsored Research initiated before July 1, 2009	4625	
+MERCY MEDICAL CENTER	279	BALTIMORE	MD	Pfizer Sponsored Research initiated before July 1, 2009	43446	
+MONTEFIORE MEDICAL CENTER	290	BRONX	NY	Pfizer Sponsored Research initiated before July 1, 2009	8528	
+MOUNT SINAI SCHOOL OF MEDICINE	294	NEW YORK	NY	Pfizer Sponsored Research initiated before July 1, 2009	13686	
+NATIONAL JEWISH MEDICAL AND RESEARCH CENTER	300	DENVER	CO	Pfizer Sponsored Research initiated before July 1, 2009	9409	
+NEMOURS CHILDREN'S CLINIC - WILMINGTON	302	ORLANDO	FL	Pfizer Sponsored Research initiated before July 1, 2009	1800	
+NEW YORK MEDICAL COLLEGE	304	VALHALLA	NY	Pfizer Sponsored Research initiated before July 1, 2009	9049	
+NEW YORK UNIVERSITY	304	NEW YORK	NY	Pfizer Sponsored Research initiated before July 1, 2009	23946	
+NORTHSHORE UNIV HEALTHSYS RSCH	309	EVANSTON	IL	Pfizer Sponsored Research initiated before July 1, 2009	12710	
+NORWALK HOSPITAL	309	NORWALK	CT	Pfizer Sponsored Research initiated before July 1, 2009	8753	
+OHIO STATE UNIV RESEARCH FOUNDATION	311	COLUMBUS	OH	Pfizer Sponsored Research initiated before July 1, 2009	107292	
+OHIO STATE UNIVERSITY	311	COLUMBUS	OH	Pfizer Sponsored Research initiated before July 1, 2009	17930	
+OREGON HEALTH & SCIENCE UNIVERSITY	313	PORTLAND	OR	Pfizer Sponsored Research initiated before July 1, 2009	186490	
+OSURF-OHIO STATE UNIVERSITY RESEARCH FOUNDATION	314	COLUMBUS	OH	Pfizer Sponsored Research initiated before July 1, 2009	2000	
+PENNSYLVANIA STATE UNIVERSITY	327	HERSHEY	PA	Pfizer Sponsored Research initiated before July 1, 2009	48349	
+PHILADELPHIA HEALTH AND EDUCATION CORPORATION D/B/A DREXEL UNIVERSITY COLLEGE OF MEDICINE	332	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	5000	
+PONCE SCHOOL OF MEDICINE	336	PONCE	PR	Pfizer Sponsored Research initiated before July 1, 2009	16662	
+RABINOVICH, C. D.	343	DURHAM	NC	Meals		236
+RABINOVICH, C. D.	343	DURHAM	NC	Business Related Travel		536
+REGENTS OF THE UNIVERSITY OF MICHIGAN	352	PITTSBURGH	PA	Pfizer Sponsored Research initiated before July 1, 2009	1053	
+REGENTS OF THE UNIVERSITY OF MINNESOTA	352	MINNEAPOLIS	MN	Pfizer Sponsored Research initiated before July 1, 2009	146623	
+REGENTS OF UNIVERSITY OF MINNESOTA	352	MINNEAPOLIS	MN	Pfizer Sponsored Research initiated before July 1, 2009	5449	
+RESEARCH FOUNDATION OF THE STATE UNIVERSITY OF NEW YORK	353	ALBANY	NY	Pfizer Sponsored Research initiated before July 1, 2009	69176	
+REX HOSPITAL	354	RALEIGH	NC	Pfizer Sponsored Research initiated before July 1, 2009	62951	
+RHODE ISLAND HOSPITAL	355	PROVIDENCE	RI	Pfizer Sponsored Research initiated before July 1, 2009	18229	
+RUSH UNIVERSITY MEDICAL CENTER	371	CHICAGO	IL	Pfizer Sponsored Research initiated before July 1, 2009	43046	
+SACRED HEART HOSPITAL	373	PENSACOLA	FL	Pfizer Sponsored Research initiated before July 1, 2009	12962	
+SAINT LOUIS UNIVERSITY	374	ST. LOUIS	MO	Pfizer Sponsored Research initiated before July 1, 2009	11880	
+SARASOTA MEMORIAL HOSPITAL	379	SARASOTA	FL	Pfizer Sponsored Research initiated before July 1, 2009	6500	
+SCOTT AND WHITE MEMORIAL HOSPITAL	387	TEMPLE	TX	Pfizer Sponsored Research initiated before July 1, 2009	44202	
+SCRIPPS HEALTH	388	LA JOLLA	CA	Pfizer Sponsored Research initiated before July 1, 2009	162901	
+SCRIPPS HEALTH SCRIPPS CLINICAL RESEARCH SERVICES	388	LA JOLLA	CA	Pfizer Sponsored Research initiated before July 1, 2009	750	
+SEATTLE CHILDREN'S RESEARCH INSTITUTE	389	SEATTLE	WA	Pfizer Sponsored Research initiated before July 1, 2009	10370	
+SINAI HOSPITAL	402	BALTIMORE	MD	Pfizer Sponsored Research initiated before July 1, 2009	1983	
+SOUTH ALABAMA MEDICAL SCIENCE FOUNDATION	410	MOBILE	AL	Pfizer Sponsored Research initiated before July 1, 2009	46494	
+SOUTHERN ILLINOIS UNIVERSITY - SCHOOL OF MEDICINE	411	SPRINGFIELD	IL	Pfizer Sponsored Research initiated before July 1, 2009	3143	
+STATE OF OKLAHOMA	415	OKLAHOMA CITY	OK	Pfizer Sponsored Research initiated before July 1, 2009	2730	
+STATE OF OKLAHOMA BOARD OF REGENTS	415	OKLAHOMA CITY	OK	Pfizer Sponsored Research initiated before July 1, 2009	574	
+SUMMA HEALTH SYSTEM	421	AKRON	OH	Pfizer Sponsored Research initiated before July 1, 2009	4419	
+TEMPLE UNIVERSITY	427	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	43984	
+TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION	427	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	4975	
+THE BOARD OF REGENTS UNIVERSITY OF WISCONSIN	429	MADISON	WI	Pfizer Sponsored Research initiated before July 1, 2009	34514	
+THE BRIGHAM AND WOMEN'S HOSPITAL, INC.	430	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	21540	
+THE CHILDREN'S HOSPITAL	430	AURORA	CO	Pfizer Sponsored Research initiated before July 1, 2009	282565	
+THE CHILDREN'S HOSPITAL OF PHILADELPHIA	430	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	28593	
+THE COOPER HEALTH SYSTEM	430	HYATTSVILLE	MD	Pfizer Sponsored Research initiated before July 1, 2009	24440	
+THE GENERAL HOSPITAL CORPORATION	430	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	4862	
+THE HITCHCOCK FOUNDATION	430	LEBANON	NH	Pfizer Sponsored Research initiated before July 1, 2009	14800	
+THE HOSPITAL OF CENTRAL CONNECTICUT	430	NEW BRITAIN	CT	Pfizer Sponsored Research initiated before July 1, 2009	57970	
+THE OHIO STATE UNIVERSITY	431	COLUMBUS	OH	Pfizer Sponsored Research initiated before July 1, 2009	5067	
+THE TRUSTEES OF COLUMBIA UNIVERSITY	431	NEW YORK	NY	Pfizer Sponsored Research initiated before July 1, 2009	15494	
+THE UNIV OF TEXAS HEALTH SCIENCE SAN ANTONIO	431	SAN ANTONIO	TX	Pfizer Sponsored Research initiated before July 1, 2009	2000	
+THE UNIVERSITY OF CHICAGO	432	CHICAGO	IL	Pfizer Sponsored Research initiated before July 1, 2009	91933	
+THE UNIVERSITY OF NORTH CAROLINA @ CHAPEL HILL	432	CHAPEL HILL	NC	Pfizer Sponsored Research initiated before July 1, 2009	1000	
+THE UNIVERSITY OF TEXAS MEDICAL	432	GALVESTON	TX	Pfizer Sponsored Research initiated before July 1, 2009	3153	
+THE UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER AT DALLAS	432	DALLAS	TX	Pfizer Sponsored Research initiated before July 1, 2009	16623	
+THE UNIVERSITY OF TOLEDO	432	TOLEDO	OH	Pfizer Sponsored Research initiated before July 1, 2009	22157	
+THOMAS JEFFERSON UNIVERSITY	433	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	81390	
+THOMAS JEFFERSON UNIVERSITY HOSPITAL	433	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	5067	
+TRUMAN MEDICAL CENTER, INC.	440	KANSAS CITY	MO	Pfizer Sponsored Research initiated before July 1, 2009	29206	
+TRUSTEES OF BOSTON UNIVERSITY	440	BOSTON	MA	Pfizer Sponsored Research initiated before July 1, 2009	5235	
+TRUSTEES OF DARTMOUTH COLLEGE	440	HANOVER	NH	Pfizer Sponsored Research initiated before July 1, 2009	21546	
+TRUSTEES OF INDIANA UNIVERSITY	440	INDIANAPOLIS	IN	Pfizer Sponsored Research initiated before July 1, 2009	11551	
+TRUSTEES UNIV OF PENNSYLVANIA	440	PHILADELPHIA	PA	Pfizer Sponsored Research initiated before July 1, 2009	45010	
+TURNER, ALBINA (BENNIE)	442	KANSAS CITY	MO	Expert-Led  Forums	625	
+TURNER, ALBINA (BENNIE)	442	KANSAS CITY	MO	Business Related Travel		221
+UMDNJ	443	NEW BRUNSWICK	NJ	Pfizer Sponsored Research initiated before July 1, 2009	700	
+UMDNJ - NEW JERSEY MEDICAL SCHOOL	443	NEW BRUNSWICK	NJ	Pfizer Sponsored Research initiated before July 1, 2009	600	
+UNIV OF TEXAS HSC AT SAN ANTONIO	444	SAN ANTONIO	TX	Pfizer Sponsored Research initiated before July 1, 2009	15446	
+UNIV OF TEXAS MEDICAL BRANCH	444	HOUSTON	TX	Pfizer Sponsored Research initiated before July 1, 2009	7800	
+UNIV. OF OKLAHOMA	444	OKLAHOMA CITY	OK	Pfizer Sponsored Research initiated before July 1, 2009	1365	
+UNIVERSITY OF ARKANSAS FOR MEDICAL SERVICES	445	LITTLE ROCK	AR	Pfizer Sponsored Research initiated before July 1, 2009	77670	
+UNIVERSITY OF CALIFORNIA IRVINE	445	IRVINE	CA	Pfizer Sponsored Research initiated before July 1, 2009	8898	
+UNIVERSITY OF COLORADO AT DENVER AND HEALTH SCIENCES CENTER	445	DENVER	CO	Pfizer Sponsored Research initiated before July 1, 2009	9426	
+UNIVERSITY OF COLORADO DENVER	445	DENVER	CO	Pfizer Sponsored Research initiated before July 1, 2009	70420	
+UNIVERSITY OF COLORADO HEALTH SCIENCES CENTER	445	DENVER	CO	Pfizer Sponsored Research initiated before July 1, 2009	224617	
+UNIVERSITY OF CONNECTICUT HEALTH CENTER	445	FARMINGTON	CT	Pfizer Sponsored Research initiated before July 1, 2009	33062	
+UNIVERSITY OF HAWAII	445	HONOLULU	HI	Pfizer Sponsored Research initiated before July 1, 2009	6247	
+UNIVERSITY OF IOWA	445	IOWA CITY	IA	Pfizer Sponsored Research initiated before July 1, 2009	32207	
+UNIVERSITY OF IOWA	445	IOWA CITY	IA	DIEKEMA, DANIEL JAMES		
+UNIVERSITY OF KANSAS MEDICAL CENTER RESEARCH INSTITUTE	446	KANSAS CITY	KS	Pfizer Sponsored Research initiated before July 1, 2009	2710	
+UNIVERSITY OF KENTUCKY	446	LEXINGTON	KY	Pfizer Sponsored Research initiated before July 1, 2009	29255	
+UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION	446	LEXINGTON	KY	Pfizer Sponsored Research initiated before July 1, 2009	44488	
+UNIVERSITY OF MASS MEDICAL CENTER	446	WORCESTER	MA	Pfizer Sponsored Research initiated before July 1, 2009	28994	
+UNIVERSITY OF MASSACHUSETTS	446	WORCESTER	MA	Pfizer Sponsored Research initiated before July 1, 2009	8737	
+UNIVERSITY OF MEDICINE AND DENTISTRY OF NEW JERSEY	446	NEW BRUNSWICK	NJ	Pfizer Sponsored Research initiated before July 1, 2009	88087	
+UNIVERSITY OF MIAMI	446	MIAMI	FL	Pfizer Sponsored Research initiated before July 1, 2009	185687	
+UNIVERSITY OF MIAMI SPONSORED PROGRAMS	447	ATLANTA	GA	Pfizer Sponsored Research initiated before July 1, 2009	6800	
+UNIVERSITY OF MISSOURI	447	KANSAS CITY	MO	Pfizer Sponsored Research initiated before July 1, 2009	17808	
+UNIVERSITY OF NEBRASKA MEDICAL CENTER	447	OMAHA	NE	Pfizer Sponsored Research initiated before July 1, 2009	33515	
+UNIVERSITY OF OKLAHOMA	447	OKLAHOMA CITY	OK	Pfizer Sponsored Research initiated before July 1, 2009	7084	
+UNIVERSITY OF SOUTH CAROLINA RESEARCH FOUNDATION	448	CHARLOTTE	NC	Pfizer Sponsored Research initiated before July 1, 2009	780	
+UNIVERSITY OF SOUTH FLORIDA	448	TAMPA	FL	Pfizer Sponsored Research initiated before July 1, 2009	15891	
+UNIVERSITY OF SOUTH FLORIDA RESEARCH FOUNDATION, INC.	448	TAMPA	FL	Pfizer Sponsored Research initiated before July 1, 2009	3600	
+UNIVERSITY OF TENNESSEE	448	KNOXVILLE	TN	Pfizer Sponsored Research initiated before July 1, 2009	5944	
+UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT SAN ANTONIO	448	SAN ANTONIA	TX	Pfizer Sponsored Research initiated before July 1, 2009	140656	
+UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER	449	DALLAS	TX	Pfizer Sponsored Research initiated before July 1, 2009	64385	
+UNIVERSITY OF WASHINGTON	449	SEATTLE	WA	Pfizer Sponsored Research initiated before July 1, 2009	46660	
+UNIVERSITY OF WISCONSIN	449	MADISON	WI	Pfizer Sponsored Research initiated before July 1, 2009	131863	
+UPR-MEDICAL SCIENCES CAMPUS CEMI PROYECTO CEMI	449	SAN JUAN	PR	Pfizer Sponsored Research initiated before July 1, 2009	2802	
+USF RESEARCH FOUNDATION, INC.	450	TAMPA	FL	Pfizer Sponsored Research initiated before July 1, 2009	6024	
+UT SOUTHWESTERN MEDICAL CENTER AT DALLAS	450	DALLAS	TX	Pfizer Sponsored Research initiated before July 1, 2009	750	
+VANDERBILT UNIV. MEDICAL CTR.	452	NASHVILLE	TN	Pfizer Sponsored Research initiated before July 1, 2009	12677	
+VANDERBILT UNIVERSITY	452	NASHVILLE	TN	Pfizer Sponsored Research initiated before July 1, 2009	117780	
+VANDERBILT UNIVERSITY MEDICAL CENTER	452	ATLANTA	GA	Pfizer Sponsored Research initiated before July 1, 2009	67473	
+VIRGINIA COMMONWEALTH UNIVERSITY	456	RICHMOND	VA	Pfizer Sponsored Research initiated before July 1, 2009	38102	
+WASHINGTON UNIVERSITY	461	ST. LOUIS	MO	Pfizer Sponsored Research initiated before July 1, 2009	88302	
+WASHINGTON UNIVERSITY SCHOOL OF MEDICINE	461	ST. LOUIS	MO	Pfizer Sponsored Research initiated before July 1, 2009	18112	
+WAYNE STATE UNIVERSITY	463	DETROIT	MI	Pfizer Sponsored Research initiated before July 1, 2009	30001	
+WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY	464	NEW YORK	NY	Pfizer Sponsored Research initiated before July 1, 2009	23215	
+WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION	467	MORGANTOWN	WV	Pfizer Sponsored Research initiated before July 1, 2009	9749	
+YALE UNIVERSITY SCHOOL OF MEDICINE	479	NEW HAVEN	CT	Pfizer Sponsored Research initiated before July 1, 2009	132853	
